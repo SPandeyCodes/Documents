@@ -1,4 +1,4 @@
 
 
 
-college projects/mini-projects/seminars/talks/workkshops DOCUMENTs
+college projects/mini-projects/seminars/talks/workshops DOCUMENTs
